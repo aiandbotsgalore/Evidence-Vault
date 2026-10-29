@@ -1,0 +1,6 @@
+{
+  "name": "Evidence Vault",
+  "description": "Single-user investigative documentary ingestion, deterministic transcript/document chunking, and Gemini 4 Argon semantic classification workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
